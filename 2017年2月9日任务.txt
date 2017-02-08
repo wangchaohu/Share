@@ -1,0 +1,4 @@
+1、修复项目bug （选择演示项目按钮背景）                               
+2、使用Lottie制作  lapsen动画
+3、继续学习react-native
+4、web后台，继续shopping项目     
