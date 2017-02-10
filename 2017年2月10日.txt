@@ -1,4 +1,4 @@
-1、演示大数据，，，破碎机项目                           
-2、使用Lottie制作  lapsen动画   ——继续优化              
-3、继续学习react-native            —按照先学习flex布局      
+﻿1、演示大数据，，，破碎机项目              -----完成                 
+2、使用Lottie制作  lapsen动画   ——继续优化   --优化完成，加入welcomeActivity文件中            
+3、继续学习react-native            —按照先学习flex布局     ，，未完，学习了es6，接下来应该是学习flex 布局
 4、web后台，继续shopping项目     
