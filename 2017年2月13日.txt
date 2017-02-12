@@ -1,0 +1,4 @@
+1、公司android项目      welcome跳转到主界面                 
+2、使用Lottie制作  lapsen动画   深入学习lottie的介绍            
+3、继续学习react-native            —按照先学习flex布局     ，，未完，学习了es6，接下来应该是学习flex 布局
+4、web后台，继续shopping项目     —完成提交订单  
