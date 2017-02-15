@@ -2,3 +2,5 @@
 2、自己的项目，打算上线          —将json数据设计一下
 3、继续学习react-native            
 4、web后台，继续shopping项目       
+
+报名参加永洪大数据
