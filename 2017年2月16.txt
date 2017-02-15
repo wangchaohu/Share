@@ -1,0 +1,4 @@
+1、公司android项目              ——添加柱状图
+2、自己的项目，打算上线          —将json数据设计一下
+3、继续学习react-native            
+4、web后台，继续shopping项目       
