@@ -1,0 +1,22 @@
+1、公司android项目             柱状图改变的同时，，下方的数据也进行改变
+2、自己的项目，打算上线          —封装ViewDrag,   账本写入json文件，可追加的json文件
+3、继续学习react-native            
+
+
+{
+    "jsonData": [
+        {
+            "dayDate": "2017-2-12",
+            "data": [
+                {
+                    "hourDate": "22:24:24",
+                    "content": "你好"
+                },
+                {
+                    "hourDate": "22:25:24",
+                    "content": "你好"
+                }
+            ]
+        }
+    ]
+}
