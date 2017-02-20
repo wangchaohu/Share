@@ -1,5 +1,62 @@
-1、看看有没有界面功能上的问题，没有的话，进行http请求
+﻿1、看看有没有界面功能上的问题，没有的话，进行http请求
 2、自己的项目，打算上线          点击不同marker，出现不同数据
 3、监测自己的MyAccount是否内存泄漏等
 4、学习ReactNative
 
+
+
+{
+    "state": "success",
+    "result": [
+        {
+            "city": "北京",
+            "foods": [
+                {
+                    "name": "农家",
+                    "grade": "1",
+"address":"北京市海淀区",
+"perCapita":"78元",
+"recommend":"红烧茄子，地锅鸡",
+                    "lat": "36.343524",
+                    "lng": "114.455433",
+                    "url": "http://www.baidu.com"
+                },
+                {
+                    "name": "农家",
+                    "grade": "1",
+"address":"北京市海淀区",
+"perCapita":"78元",
+"recommend":"红烧茄子，地锅鸡",
+                    "lat": "36.343524",
+                    "lng": "114.455433",
+                    "url": "http://www.baidu.com"
+                }
+            ]
+        },
+        {
+            "city": "上海",
+            "foods": [
+                {
+                    "name": "农家",
+                    "grade": "1",
+"address":"北京市海淀区",
+"perCapita":"78元",
+"recommend":"红烧茄子，地锅鸡",
+                    "lat": "36.343524",
+                    "lng": "114.455433",
+                    "imgUrl": "http://www.baidu.com"
+                },
+                {
+                    "name": "农家",
+                    "grade": "1",
+"address":"北京市海淀区",
+"perCapita":"78元",
+"recommend":"红烧茄子，地锅鸡",
+                    "lat": "36.343524",
+                    "lng": "114.455433",
+                    "imgUrl": "http://www.baidu.com"
+                }
+            ]
+        }
+    ]
+}
