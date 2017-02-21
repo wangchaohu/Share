@@ -1,0 +1,6 @@
+1、使用策略模式（状态模式）完善公司数据分析的界面 并根据理解写一篇博客
+2、Seek               实现将MarkerOptions放入到model中，由model中返回List<MarkerOptions>来完成展示
+3、监测自己的MyAccount是否内存泄漏等（*******）   有时间就做
+4、学习ReactNative   点击按钮后的操作效果
+5、信息供求网（*******）
+
